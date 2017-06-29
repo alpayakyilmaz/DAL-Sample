@@ -1,0 +1,17 @@
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\DALSample.exe.config
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\DALSample.exe
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\DALSample.pdb
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.csprojResolveAssemblyReference.cache
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.Form1.resources
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.Properties.Resources.resources
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.csproj.GenerateResource.Cache
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.exe
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.pdb
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\BL.dll
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\DAL.dll
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\BL.pdb
+D:\Ado Net Samples\DALSample\DALSample\bin\Debug\DAL.pdb
+D:\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.UpdateCategory.resources
+F:\Tutoriol ve Dökümanlar\Tutorial Codes\Ado Net Samples\DALSample\DALSample\bin\Debug\DALSample.exe.config
+F:\Tutoriol ve Dökümanlar\Tutorial Codes\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.exe
+F:\Tutoriol ve Dökümanlar\Tutorial Codes\Ado Net Samples\DALSample\DALSample\obj\Debug\DALSample.pdb

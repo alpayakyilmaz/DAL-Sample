@@ -1,0 +1,5 @@
+D:\Ado Net Samples\DALSample\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Ado Net Samples\DALSample\DAL\bin\Debug\DAL.dll
+D:\Ado Net Samples\DALSample\DAL\bin\Debug\DAL.pdb
+D:\Ado Net Samples\DALSample\DAL\obj\Debug\DAL.dll
+D:\Ado Net Samples\DALSample\DAL\obj\Debug\DAL.pdb
